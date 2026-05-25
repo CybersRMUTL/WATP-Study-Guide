@@ -1,6 +1,6 @@
 <?php
 
-$target = "/var/www/html/rfi/secret/";
+$target = "/var/www/html/rfiCTF/secret/";
 
 echo "<h2>Searching for flags...</h2>";
 
