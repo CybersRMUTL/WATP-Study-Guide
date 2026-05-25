@@ -1,6 +1,6 @@
 <?php
 
-$dir = "/var/www/html/rfi/secret/";
+$dir = "/var/www/html/rfi/secret/flag.txt";
 
 if (is_dir($dir)) {
 
